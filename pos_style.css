@@ -1,0 +1,24 @@
+body{
+    font-size: 36px;
+}
+.parent{
+    background-color: blue;
+    padding: 20px;
+    position: relative;
+}
+.child{
+    padding: 5px;
+
+}
+.child-one{
+    background-color: green;
+    position: absolute;
+    /* left:10px;
+ */
+}
+.child-two{
+    background-color: red;
+}
+.child-three{
+    background-color: violet;
+}
